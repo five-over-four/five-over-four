@@ -1,7 +1,7 @@
-## Repositories that may be interesting to others
+## Highlights
 
 * [Game of Life](https://github.com/five-over-four/gameoflife)
 
 * [Automatic ASCII-art](https://github.com/five-over-four/autoascii)
 
-* [Subtitling machine](https://github.com/five-over-four/subtitler)
+* [Subtitling engine](https://github.com/five-over-four/subtitler)
