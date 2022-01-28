@@ -9,3 +9,5 @@
 * [Automatic ASCII-art](https://github.com/five-over-four/autoascii)
 
 * [Morse code tool](https://github.com/five-over-four/morsecode)
+
+The projects are in no particular order with respect to complexity or utility.
