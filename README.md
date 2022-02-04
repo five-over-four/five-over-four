@@ -10,4 +10,6 @@
 
 * [Morse code tool](https://github.com/five-over-four/morsecode)
 
+* [N-body simulation](https://github.com/five-over-four/n-body-pygame)
+
 The projects are in no particular order with respect to complexity or utility.
