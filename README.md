@@ -6,7 +6,7 @@
 
 * [Subtitling / animation engine](https://github.com/five-over-four/subtitler)
 
-* [Automatic ASCII-art](https://github.com/five-over-four/autoas
+* [Automatic ASCII-art](https://github.com/five-over-four/autoas)
 
 * [N-body simulation](https://github.com/five-over-four/n-body-pygame)
 
