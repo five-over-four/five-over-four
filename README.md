@@ -6,10 +6,10 @@
 
 * [Subtitling / animation engine](https://github.com/five-over-four/subtitler)
 
-* [Automatic ASCII-art](https://github.com/five-over-four/autoascii)
-
-* [Morse code tool](https://github.com/five-over-four/morsecode)
+* [Automatic ASCII-art](https://github.com/five-over-four/autoas
 
 * [N-body simulation](https://github.com/five-over-four/n-body-pygame)
+
+* [Morse code tool](https://github.com/five-over-four/morsecode)
 
 The projects are in no particular order with respect to complexity or utility.
